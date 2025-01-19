@@ -1,9 +1,9 @@
 {
-    "token": "YOUR_BOT_TOKEN_HERE",
-    "clientId": "YOUR_CLIENT_ID_HERE",
-    "guildId": "YOUR_GUILD_ID_HERE",
+    "token": "MTMyNzkxNzQwNzkwMTA1NzAyOQ.G4aSF0.FZtXGfMlcFw3oW9qcAYPUhtjRE5XBeELWNbPWg",
+    "clientId": "1327917407901057029",
+    "guildId": "https://discord.com/oauth2/authorize?client_id=1327917407901057029",
     "minecraft": {
-        "ip": "YOUR_SERVER_IP",
-        "port": 25565
+        "ip": "dixontr.aternos.me",
+        "port": 37452
     }
 }
